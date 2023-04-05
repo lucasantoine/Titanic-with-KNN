@@ -21,6 +21,12 @@ The following is a brief outline of the steps I have followed in this project:
 ## Results
 After trying various models and fine-tuning the hyperparameters, I was able to achieve an accuracy of 81.818% on the test set.
 
+## How to use the Jupyter Notebook
+1. Clone the GitHub repository to your local machine.
+2. Install the necessary libraries by running `pip install -r requirements.txt` command in the terminal.
+3. Run the Jupyter Notebook by running the `jupyter notebook` command in the terminal.
+4. Open the `titanic-with-knn.ipynb` file in the Jupyter Notebook and run the code cells sequentially.
+
 ## Conclusion
 This project was a great opportunity for me to apply my data science skills to a real-world problem and gain experience in feature engineering, model selection, and hyperparameter tuning. I hope my submission will help others learn from my approach and improve their performance in the competition.
 
